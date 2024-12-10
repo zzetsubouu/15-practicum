@@ -1,0 +1,7 @@
+C:\Users\Kab-35-16\source\repos\7-task\bin\Debug\7-task.exe.config
+C:\Users\Kab-35-16\source\repos\7-task\bin\Debug\7-task.exe
+C:\Users\Kab-35-16\source\repos\7-task\bin\Debug\7-task.pdb
+C:\Users\Kab-35-16\source\repos\7-task\obj\Debug\7-task.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\source\repos\7-task\obj\Debug\7-task.exe
+C:\Users\Kab-35-16\source\repos\7-task\obj\Debug\7-task.pdb
+C:\Users\Kab-35-16\source\repos\7-task\obj\Debug\7-task.csproj.AssemblyReference.cache
